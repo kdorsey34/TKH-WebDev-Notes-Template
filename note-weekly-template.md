@@ -17,7 +17,7 @@ ___
 💡3 Things I learned today:
 1. How to create a Github account.
 2. How to connect to Visual Studio Code.
-3. Push Code 
+3. Familiarize myself with Git and GitHub.
 
 👁️Two things I would like to know more about:
 1. Additional functions of Github
@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, []/[day] 
 
 #### 🗒️Notes from class:
 
