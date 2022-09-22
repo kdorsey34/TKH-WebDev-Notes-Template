@@ -52,24 +52,24 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [September]/[21]
 #### 🗒️Notes from class:
 
-#### 📚Resources:
+#### 📚Resources: https://docs.github.com/en/get-started/quickstart/hello-world
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned how to correctly link attach links for homeowork assignments. 
+2. Branch, Pull, Merge
+3. How to delete repositories from Github
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How to branch, pull, merge using the terminal. 
+2. Understanding command, there meanings. How to utilize both the terminal commands and source control. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Inputting commands/ Also getting a better understanding of branch, pull and merging. 
  
 
