@@ -29,26 +29,27 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [September]/[27] 
 
 #### 🗒️Notes from class:
 
-#### 📚Resources:
+#### 📚Resources:https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox
 
+https://www.theodinproject.com/lessons/foundations-alignment
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Learned about Flexbox
+2. Flex containers vs Flex Items
+3. Alignments within Flexbox
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How Flexbox and Figma can be utilized together.
+2. Everything :)
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Concepts/code within css and javascript. 
 
 ___
 
