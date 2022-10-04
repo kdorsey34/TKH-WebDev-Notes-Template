@@ -7,24 +7,24 @@ ___
 
 ### Day 1, [month]/[day]
 
-#### 🗒️Notes from class:
+#### 🗒️Notes from class: Arrays/Concatenation
 
-#### 📚Resources:
+#### 📚Resources:intro to JavaScript 2022
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
+1. How to create a paragraph using indexing.
+2. How to utilize node in visual studio to see the output of my code.
 3. 
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Additional practice utilizing Java Script 
+2. String template literals 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Creating an organized filing system for my assignments.
 
 
 ___
