@@ -29,26 +29,26 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [October]/[04] 
 
-#### 🗒️Notes from class:
+#### 🗒️Notes from class: if/else, loops demo, fizzbuzz
 
-#### 📚Resources:
+#### 📚Resources:www.developer.mozilla.org
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. if/else statements
+2. Loops
+3. Prompts and alerts
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. if/else statements 
+2. Loops, just to have a better understanding of both. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. How to better understand the if else statements and how to apply to a real world scenarios.  
 
 ___
 
