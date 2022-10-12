@@ -1,4 +1,4 @@
-# Week [week#]
+# Week [week5]
 ## [month]/[day] - [month]/[day]
 
 # Topic:
@@ -29,26 +29,25 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, October 11th (Tuesday)
 
-#### 🗒️Notes from class:
+#### 🗒️Notes from class: Functions, Creating Calculator 
 
-#### 📚Resources:
-
+#### 📚Resources:The Odin Project 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
+1. Functions, review/ How they are used to create the calculator in the assignment.
+2. Review of if/else statements
 3. 
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Nesting 
+2. Looping
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. The overall concept of functions, applying logic to the code and applying them to our assignments. 
 
 ___
 
