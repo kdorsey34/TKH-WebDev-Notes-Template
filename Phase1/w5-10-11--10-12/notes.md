@@ -51,24 +51,24 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [October/12 ]
 #### 🗒️Notes from class:
 
-#### 📚Resources:
+#### 📚Resources: The Odin Project
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. DOM properties/events 
+2. Functions, looping
+3. Review/completion of calculator assignment
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Functions        
+2. DOM manipulations/properties 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Functions!
  
 
