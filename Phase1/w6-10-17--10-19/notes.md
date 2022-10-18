@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week 6
+## October 17th, Monday 
 
-# Topic:
+# Topic: Javascript Objects 
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [10/17]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Javascript Objects
+2. Dot/bracket notation 
+3. key:value = property
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Looping
+2.  
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Using objects for lookups-freecodecamp
 
 
 ___
