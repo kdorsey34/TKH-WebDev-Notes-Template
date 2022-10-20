@@ -52,24 +52,24 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [10/19]
 #### 🗒️Notes from class:
 
-#### 📚Resources:
+#### 📚Resources:freecodecamp
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Recursion 
+2. Nesting For Loops
+3. While Loops
 
 👁️Two things I would like to know more about:
-1. 
+1. All of the above items
 2. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Recursion-Completely confused by this...lol
  
 
