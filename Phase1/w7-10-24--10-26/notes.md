@@ -1,30 +1,30 @@
 # Week [week#]
-## [month]/[day] - [month]/[day]
+## [October]/[24] - [October]/[26]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [October]/[24]
 
 #### 🗒️Notes from class:
 
-#### 📚Resources:
+#### 📚Resources:freecodecamp.com
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
+1. Review of inheritance
+2. Objects and classes
 3. 
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Inheritance
+2. DOM
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. DOM
 
 
 ___
