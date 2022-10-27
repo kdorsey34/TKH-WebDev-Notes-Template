@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [October/26]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. How to organize our game homework/project.
+2. Directions on assignment.
+3. How to effectively Google search.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. N/A
+2. N/A
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. -
  
 
