@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Data Fetching
+2. NPM
+3. Json
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Using APIs 
+2. Utilizing Json
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Data fetching/node 
  
 
