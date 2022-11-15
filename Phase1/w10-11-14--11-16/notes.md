@@ -1,11 +1,11 @@
 # Week [week#]
-## [month]/[day] - [month]/[day]
+## [November]/[14] - [November]/[17]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [11/14]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Async
+2. Vite building tool
+3. API's 
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like better understanding of API's 
+2. Vite 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. API's
 
 
 ___
