@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, November 15th 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
+1. API Review
+2. Rubrics for milestone project
 3. 
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. N/A  
+2. N/A
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Nothing at this time.
 
 ___
 
