@@ -41,14 +41,14 @@ ___
 💡3 Things I learned today:
 1. API Review
 2. Rubrics for milestone project
-3. 
+3. 404 error 
 
 👁️Two things I would like to know more about:
-1. N/A  
-2. N/A
+1. Ways API's can be utilized
+2. Vite, what it does and how it contributes to creating projects. 
 
 ✋One thing I'm having trouble understanding:
-1. Nothing at this time.
+1. API's and utilizing different methods within it.
 
 ___
 
