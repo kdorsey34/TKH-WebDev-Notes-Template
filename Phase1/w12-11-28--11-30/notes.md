@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, November 29th
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
+1. REACT props
+2. REACT components
 3. 
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. props
+2. components
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. REACT- props and components; further practice to grasp concept
 
 ___
 
