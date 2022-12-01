@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, November 30th
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Ternary Operators
+2. Review of components and props in REACT 
+3. Conditional components 
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. VDOM
+2. REACT fundamentals
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. REACT
  
 
