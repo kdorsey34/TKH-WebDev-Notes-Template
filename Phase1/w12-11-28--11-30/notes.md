@@ -39,7 +39,7 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. REACT props
+1. REACT states 
 2. REACT components
 3. 
 
